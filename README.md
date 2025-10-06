@@ -1,43 +1,53 @@
-🧠 ScholarsIn Research Assistant
+# 🧠 ScholarsIn Research Assistant
 
-ScholarsIn is an AI-powered tool that helps researchers and students find, summarize, and understand academic papers easily. It supports text, voice, and image inputs, making research faster and more interactive.
+**ScholarsIn** is an AI-powered tool that helps researchers and students find, summarize, and understand academic papers easily.  
+It supports text, voice, and image inputs, making research faster and more interactive.
 
-🌟 Features
+---
 
-🔍 Search academic papers using keywords or questions
+## 🌟 Features
 
-🧠 Get short and clear summaries of long research papers
+- 🔍 Search academic papers using keywords or questions  
+- 🧠 Get short and clear summaries of long research papers  
+- 🗣️ Ask questions by text or voice  
+- 📚 Extract and format citations (APA, MLA, IEEE)  
+- 💡 Generate research ideas and abstracts  
+- 🪄 Keep track of your past questions and results  
 
-🗣️ Ask questions by text or voice
+---
 
-📚 Extract and format citations (APA, MLA, IEEE)
+## 🧰 Tech Stack
 
-💡 Generate research ideas and abstracts
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Python (FastAPI or Flask)  
+- **AI Models:** GPT-5, Hugging Face Transformers, LangChain  
+- **Database:** SQLite or PostgreSQL  
+- **Vector Search:** FAISS or Pinecone  
 
-🪄 Keep track of your past questions and results
+---
 
-🧰 Tech Stack
+## 💬 Example Commands
 
-Frontend: React.js, Tailwind CSS
+| Task | Example |
+|------|----------|
+| Search papers | “Find recent papers on brain data decoding.” |
+| Summarize | “Summarize this paper in 100 words.” |
+| Q&A | “What is the role of AI in neuroscience research?” |
 
-Backend: Python (FastAPI or Flask)
 
-AI Models: GPT-5, Hugging Face Transformers, LangChain
+---
 
-Database: SQLite or PostgreSQL
+## 🧩 Future Plans
 
-Vector Search: FAISS or Pinecone
+- Integration with Zotero and Google Scholar  
+- Collaborative research dashboard  
+- Multilingual paper understanding  
 
-💬 Example Commands
-Task	Example
-Search papers	“Find recent papers on brain data decoding.”
-Summarize	“Summarize this paper in 100 words.”
-Q&A	“What is the role of AI in neuroscience research?”
-Citations	“Generate IEEE citations for these papers.”
-🧩 Future Plans
+---
 
-Integration with Zotero and Google Scholar
+## 👤 Author
 
-Collaborative research dashboard
+**Sai Gajja**  
+🌐 Project: *ScholarsIn Research Assistant*
 
-Multilingual paper understanding
+---
